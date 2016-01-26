@@ -1,0 +1,46 @@
+h1 {
+  color: rgba(149, 69, 53, 1)
+    font-family: cursive;
+}
+body {
+  text-align: center;
+  font-family: arial;
+ }
+p {
+  color: black;
+}
+.ingredient {
+  color: red;
+}
+.ing1 {
+  color: yellow;
+}
+.ing2 {
+  color: green;
+}
+.ing3 {
+  color: black;
+}
+.ing4 {
+  color: blue;
+}
+.ing5 {
+  color: orange;
+}
+.ing6 {
+  color: pink;
+}
+.ing7 {
+  color: #eeff00;
+}.ing8 {
+  color: yellow;
+}
+.ing9 {
+  color: yellow;
+}
+.ing10 {
+  color: yellow;
+}
+.ing11 {
+  color: yellow;
+}
